@@ -1,5 +1,7 @@
 package main
-import "fmt"
+import(
+	"fmt"
+)
 //全局变量定义
 //n7,n8 := "quanju",19 "似乎不可以"
 var n7,n8 = "quanju",19
