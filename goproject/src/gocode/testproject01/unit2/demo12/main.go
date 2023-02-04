@@ -19,4 +19,6 @@ func main(){
 	var s3 string = strconv.FormatBool(n3)
 	fmt.Printf("s3对应的类型是: %T , s3 = %q \n",s3,s3) //s3对应的类型是: string , s3 = "true"
 
+
+	
 }
