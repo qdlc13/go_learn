@@ -1,7 +1,5 @@
 package main
-import(
-	"fmt"
-)
+import "fmt"
 //全局变量定义
 //n7,n8 := "quanju",19 "似乎不可以"
 var n7,n8 = "quanju",19
@@ -10,7 +8,6 @@ var(
 	n9 = 200
 	n10 = "lc"
 )
-
 func main(){
 	//{}中的为局部变量
 	//变量使用方式
