@@ -28,4 +28,6 @@ func main(){
 	var ptr *int = &num 
 	*ptr = 50
 	fmt.Println(*ptr,num) //50 50
+
+	
 }
