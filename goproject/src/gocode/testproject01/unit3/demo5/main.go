@@ -15,7 +15,7 @@ func main(){
     //在golang里，if后面可以并列的加入变量的定义：
 	//sum在这个if之外不能使用
 	if sum := 5;sum > 2 {
-		fmt.Println("数量超过") //数量超过
+		fmt.Println("数量超过了") //数量超过
 	}
 
 	if sum1 := 3;sum1 > 3 {
